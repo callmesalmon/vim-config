@@ -16,7 +16,7 @@ if v:version > 580
     endif
 endif
 
-let g:colors_name='space-vim-dark'
+let g:colors_name='spacemacs'
 
 " refer to http://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html
 let s:color256 = {

@@ -1,2 +1,2 @@
-cp -r $HOME/.vim
-cp    $HOME/.vimrc
+cp -r $HOME/.vim .
+cp    $HOME/.vimrc .
