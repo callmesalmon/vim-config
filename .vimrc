@@ -56,7 +56,7 @@ color spacemacs
 hi Normal     ctermbg=NONE guibg=NONE
 hi LineNr     ctermbg=NONE guibg=NONE
 hi SignColumn ctermbg=NONE guibg=NONE
-" [A-Za-z0-9_]*\)
+
 augroup CFuncHighlight
     autocmd! 
     autocmd FileType c,cpp,objc syntax match cFunction /\v\zs\w+\ze\s*\(/ containedin=ALL
